@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning programmation but I'm ready to work in web development
 - 💞️ I’m looking to collaborate on project to improve my knowledge
 - 📫 It's simply to reach me just send an email to my two adress:
-- daradieudonne97@gmail.com
-- daradieudonne@outlook.com
+  - daradieudonne97@gmail.com
+  - daradieudonne@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Too early🤣🤣🤣
 
